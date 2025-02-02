@@ -6,5 +6,5 @@
 ##init Funtion
 ###inti funtion will execute first than the main funtion execute.
 
-##Anonimous Funtion
-###anonimous funtion no need any funtion name and its invoke imediateley however when the funtion invoke than its called imediately invoke anonimous funtion.
+##nonimous Funtion
+###anonimous funtion no need any funtion name and its invoke imediateley however when the funtion invoke than its called Imediately Invoke Funtion Expression(IIFE).
