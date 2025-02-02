@@ -4,6 +4,7 @@
 
 #   Funtion
 ##init Funtion
-###inti funtion will called first than the main funtion called.
+###inti funtion will execute first than the main funtion execute.
 
 ##Anonimous Funtion
+###anonimous funtion no need any funtion name and its invoke imediateley however when the funtion invoke than its called imediately invoke anonimous funtion.
