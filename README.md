@@ -8,3 +8,6 @@
 
 ##Anonimous Funtion
 ###anonimous funtion no need any funtion name and its invoke imediateley however when the funtion invoke than its called Imediately Invoke Funtion Expression(IIFE).
+
+##Expression Funtion
+### First invoke than write expression funtion . its don't work .aloways remenber after expression funtion done then invoke.
